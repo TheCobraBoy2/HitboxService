@@ -1,5 +1,5 @@
 --!strict
---- Main HitboxService 2021
+--- Main HitboxService 2025
 -- @author VorrikZ
 
 --[[
