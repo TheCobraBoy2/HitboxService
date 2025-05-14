@@ -21,7 +21,7 @@
 --                                                                            --
 -- Authors:                                                                   --
 --   stravant - July 31st, 2021 - Created the file.                           --
---   TheCobraBoy2 - August 15th, 2021 - Minor edits for HitboxService	      --
+--   VorrikZ - February 15th, 2025 - Minor edits for HitboxService	      --
 --------------------------------------------------------------------------------
 
 -- The currently idle thread to run the next handler on
